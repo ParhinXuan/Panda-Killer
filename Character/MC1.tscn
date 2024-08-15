@@ -111,7 +111,7 @@ _data = {
 "RESET": SubResource("Animation_hpmy5")
 }
 
-[node name="Node2D" type="Node2D"]
+[node name="Player" type="Node2D"]
 
 [node name="Body" type="Polygon2D" parent="."]
 position = Vector2(-1, 7)
